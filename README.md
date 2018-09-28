@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/JoeFalkenburg/DotNetCorePipelineLab20180928/_apis/build/status/jfalkenburg.pipelines-dotnet-core)](https://dev.azure.com/JoeFalkenburg/DotNetCorePipelineLab20180928/_build/latest?definitionId=3)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
